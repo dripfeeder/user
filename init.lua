@@ -72,7 +72,7 @@ return {
     -- Set up custom filetypes
     -- vim.filetype.add {
     --   extension = {
-    --     foo = "fooscript",
+    ---     foo = "fooscript",
     --   },
     --   filename = {
     --     ["Foofile"] = "fooscript",
